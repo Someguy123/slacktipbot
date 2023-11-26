@@ -1,3 +1,4 @@
 block-io
 slackclient
 slacksocket
+sympy>=1.12 # not directly required, pinned by Snyk to avoid a vulnerability
